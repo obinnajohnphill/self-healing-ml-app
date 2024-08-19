@@ -33,6 +33,13 @@ The following Jupyter Notebooks are included in this repository:
 
 ## Datasets
 
+Include the system logs datasets within the `dataset/system-logs` directory. The workflow is designed as follows:
+
+- **Raw Log Data**: Stored in `dataset/system-logs`.
+- **Extracted Data**: The extracted data will be stored in `dataset/system-logs/multiple-system-log-dataset/extracted-data`.
+- **Preprocessed Data**: The preprocessed data will be stored in `dataset/system-logs/multiple-system-log-dataset/preprocessed-data`.
+
+
 Due to space constraints on GitHub, the datasets containing real system logs for macOS, Android, Linux, and Windows could not be included in this repository. These datasets can be downloaded separately from Zenodo:
 
 [Download Dataset from Zenodo](https://zenodo.org/records/3227177#.ZEwlc-zMJhE)
