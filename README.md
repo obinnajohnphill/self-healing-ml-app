@@ -35,7 +35,7 @@ The following Jupyter Notebooks are included in this repository:
 
 Include the system logs datasets within the `dataset/system-logs` directory. The workflow is designed as follows:
 
-- **Raw Log Data**: Stored in `dataset/system-logs`.
+- **Raw Log Data**: Store in `dataset/system-logs`.
 - **Extracted Data**: The extracted data will be stored in `dataset/system-logs/multiple-system-log-dataset/extracted-data`.
 - **Preprocessed Data**: The preprocessed data will be stored in `dataset/system-logs/multiple-system-log-dataset/preprocessed-data`.
 
